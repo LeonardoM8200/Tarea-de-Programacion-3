@@ -1,0 +1,32 @@
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\bin\Debug\EJERCICIOS DE LA SEMANA 3.exe.config
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\bin\Debug\EJERCICIOS DE LA SEMANA 3.exe
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\bin\Debug\EJERCICIOS DE LA SEMANA 3.pdb
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS DE LA SEMANA 3.csprojAssemblyReference.cache
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmmenu.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Properties.Resources.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS DE LA SEMANA 3.csproj.GenerateResource.cache
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS DE LA SEMANA 3.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS DE LA SEMANA 3.exe
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS DE LA SEMANA 3.pdb
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmsumadenumeros.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmpromedio.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmmillasametros.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmmillasakilometros.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmlempirasadolar.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmlempirasaeuros.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmpagodellantas.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmpagodeempleado.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmsalariosandhorasextras.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmgalonesalitros.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmpulgadasacm.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmsemanaandminuto.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmsalariomasaunmentox.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmdiasandminutos.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmlibrasaonzas.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmcalcularpromedio.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmcuadradodeunnum.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmcubo.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmdobledenumero.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmmetrosapies.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmtotalapagarconstructor.resources
+D:\Universidad\Programacion 3\TAREA SEMANA 3\EJERCICIOS DE LA SEMANA 3\obj\Debug\EJERCICIOS_DE_LA_SEMANA_3.Formularios.frmnotatotalestudiante.resources
